@@ -4,4 +4,4 @@
 
 ## 如何執行
 1. 安裝 pygame: `pip install pygame`
-2. 執行程式: `python sudoku_game.py`
+2. 執行程式: `python main.py`
